@@ -12,6 +12,6 @@ let name = "David";
 let found;
 
 // YOUR CODE BELOW
-
+found = true;
 // Do not change the code below
 module.exports = { found, name };

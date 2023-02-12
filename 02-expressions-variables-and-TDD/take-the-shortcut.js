@@ -11,6 +11,7 @@
 let happyNum = 1000;
 
 // YOUR CODE BELOW
+happyNum = 1000 / 1000 + 6 - 2;
 
 // Do not change the code below
 module.exports = { happyNum };

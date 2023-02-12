@@ -11,7 +11,11 @@
 
 // YOUR CODE BELOW
 function doYouPlayTheTheremin(str) {
-  return str.charAt(0).toLowerCase() === "s";
+  if (str[0] === "s" || str[0] === "S") {
+    return true;
+  } else {
+    return false;
+  }
 }
 
 // Do not change the code below
